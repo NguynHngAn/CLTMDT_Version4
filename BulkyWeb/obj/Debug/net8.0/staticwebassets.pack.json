@@ -1,0 +1,477 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\product\\1136dd2a-316e-4180-84fa-fe95088e69cd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1136dd2a-316e-4180-84fa-fe95088e69cd.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\product\\41ba8176-a85b-40cc-80de-d7605bff3526.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\41ba8176-a85b-40cc-80de-d7605bff3526.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\product\\90c79de3-9bcf-4a0f-a8cc-431388006a9a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\90c79de3-9bcf-4a0f-a8cc-431388006a9a.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\product\\972b4a0a-613e-4187-bd8d-c57ef9f4392c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\972b4a0a-613e-4187-bd8d-c57ef9f4392c.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\product\\b3e121ee-f705-4c0c-822a-6239256f7995.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b3e121ee-f705-4c0c-822a-6239256f7995.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\product\\e1596061-9fcc-4e39-b97a-f19f0beaff39.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e1596061-9fcc-4e39-b97a-f19f0beaff39.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\product\\e8064fd8-4d6d-4715-8450-061cb6ea9c15.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e8064fd8-4d6d-4715-8450-061cb6ea9c15.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-13\\13555b6b-1ebf-4629-87c4-a6f7bf8f0180.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-13\\13555b6b-1ebf-4629-87c4-a6f7bf8f0180.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-1\\0f09982d-d0b7-4571-9ada-1267ad925470.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\0f09982d-d0b7-4571-9ada-1267ad925470.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-1\\3cc41d0b-70cc-4203-a5e2-ff90aa05fc79.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\3cc41d0b-70cc-4203-a5e2-ff90aa05fc79.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-1\\699648ef-cc06-419b-9329-e150d3777248.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\699648ef-cc06-419b-9329-e150d3777248.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-1\\9c743bb0-495d-4f0e-8493-f00be0bcda31.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\9c743bb0-495d-4f0e-8493-f00be0bcda31.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-1\\c78ef42e-b439-4cd3-a686-184038702023.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\c78ef42e-b439-4cd3-a686-184038702023.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-1\\efbd55dc-a4c0-4f1a-85f6-cda3f4179d17.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\efbd55dc-a4c0-4f1a-85f6-cda3f4179d17.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-2\\03ff3ba5-6aec-4edd-b7d5-431fe6098fac.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\03ff3ba5-6aec-4edd-b7d5-431fe6098fac.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-2\\35a155bd-4d84-4926-936b-bc1c0cff2017.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\35a155bd-4d84-4926-936b-bc1c0cff2017.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-2\\4bd5deb0-e645-4699-903d-7c817cc481fb.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\4bd5deb0-e645-4699-903d-7c817cc481fb.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-2\\6c2133da-211f-4ef1-90a9-dd1cf3b66f38.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\6c2133da-211f-4ef1-90a9-dd1cf3b66f38.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-2\\b2be59af-0027-419c-a285-d0d5faacadfc.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\b2be59af-0027-419c-a285-d0d5faacadfc.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-3\\1f36fa1f-7f9a-4b4f-84d2-eafbf69a6220.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\1f36fa1f-7f9a-4b4f-84d2-eafbf69a6220.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-3\\628fa7ce-e252-4d83-8db1-0271ecfa266d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\628fa7ce-e252-4d83-8db1-0271ecfa266d.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-3\\748b27d9-9802-42f6-adab-8df55aaf4342.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\748b27d9-9802-42f6-adab-8df55aaf4342.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-3\\a10ce238-bced-478d-aa3c-8a78111c38f8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\a10ce238-bced-478d-aa3c-8a78111c38f8.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-3\\e606ab51-d53b-4f53-92ca-ec8ae1d5200f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\e606ab51-d53b-4f53-92ca-ec8ae1d5200f.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\036e4b58-5fd0-4d94-94da-a956700a2aaf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\036e4b58-5fd0-4d94-94da-a956700a2aaf.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\05ce2296-d16a-4bae-a743-e343a8e3289a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\05ce2296-d16a-4bae-a743-e343a8e3289a.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\0c41ed92-007c-4099-a10b-aa40112db41f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\0c41ed92-007c-4099-a10b-aa40112db41f.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\55819f20-779b-4c9f-9ca4-7d9cdf06ffe2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\55819f20-779b-4c9f-9ca4-7d9cdf06ffe2.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\5731b743-b826-43d6-8bcf-bd0841ce1e37.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\5731b743-b826-43d6-8bcf-bd0841ce1e37.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\6b702e26-aa2b-47b1-bab3-f885486939e3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\6b702e26-aa2b-47b1-bab3-f885486939e3.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\80b5c370-6baa-467c-abc9-85d12fb17721.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\80b5c370-6baa-467c-abc9-85d12fb17721.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\825793c6-8173-4aad-bf17-ec10a8f40fa4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\825793c6-8173-4aad-bf17-ec10a8f40fa4.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\8be61614-113a-4dd5-a2ff-d1eb70e16f0b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\8be61614-113a-4dd5-a2ff-d1eb70e16f0b.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\9065c9e2-303b-4815-a418-fb5bd421b807.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\9065c9e2-303b-4815-a418-fb5bd421b807.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\9f1fc4ba-9ca5-4115-a740-ddee7375141d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\9f1fc4ba-9ca5-4115-a740-ddee7375141d.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\abc027bf-5a17-4f3d-a2dd-4fa4e2149306.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\abc027bf-5a17-4f3d-a2dd-4fa4e2149306.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-4\\f42a6e29-12c9-400d-a5b8-32f43c3ab5e2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\f42a6e29-12c9-400d-a5b8-32f43c3ab5e2.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-5\\1016e4b9-f9bd-4a8a-a961-07dde9fc9e8c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\1016e4b9-f9bd-4a8a-a961-07dde9fc9e8c.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-5\\1cbca164-761a-4c55-9459-82d6f2c9e0c1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\1cbca164-761a-4c55-9459-82d6f2c9e0c1.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-5\\6242e427-5c4e-48ce-8104-adcb4b356c9c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\6242e427-5c4e-48ce-8104-adcb4b356c9c.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-5\\7f0d6e2a-1a34-4c44-9596-0893338718bf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\7f0d6e2a-1a34-4c44-9596-0893338718bf.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-5\\e148e0f8-5e64-4076-804f-ad99a9dfcb4d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\e148e0f8-5e64-4076-804f-ad99a9dfcb4d.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-6\\205f2958-18f4-4644-a91f-ad0b32542a3d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\205f2958-18f4-4644-a91f-ad0b32542a3d.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-6\\3772c79c-f3dd-4f33-ba5a-e4bb6e198375.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\3772c79c-f3dd-4f33-ba5a-e4bb6e198375.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-6\\52814dff-4844-44a5-8e73-95b0e9c22c50.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\52814dff-4844-44a5-8e73-95b0e9c22c50.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-6\\c5da46a0-411e-4025-8df5-0474b5f7efc8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\c5da46a0-411e-4025-8df5-0474b5f7efc8.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\images\\products\\product-6\\e062cd40-b6a9-4f88-9070-188951b7e85d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\e062cd40-b6a9-4f88-9070-188951b7e85d.jpg"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BulkyBookWeb.props",
+      "PackagePath": "build\\BulkyBookWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyBookWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyBookWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BulkyBookWeb.props",
+      "PackagePath": "buildTransitive\\BulkyBookWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

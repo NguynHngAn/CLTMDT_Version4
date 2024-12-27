@@ -1,0 +1,47 @@
+﻿@model RevenueVM
+
+<div class="container mt-4">
+    <h2 class="text-center">Revenue Report</h2>
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow border-0">
+                <div class="card-header bg-secondary bg-gradient text-white">
+                    <h4 class="text-center">As of @Model.Date.ToString("MM/dd/yyyy")</h4>
+                </div>
+                <div class="card-body text-center">
+                    <h5>Total Revenue: @Model.TotalRevenue.ToString("c")</h5>
+                    <h5>Total Orders: @Model.TotalOrders</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <h3 class="text-center">Paid Orders</h3>
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Order ID</th>
+                        <th>Customer Name</th>
+                        <th>Order Date</th>
+                        <th>Total Amount</th>
+                        <th>Status</th> <!-- Thêm cột Status -->
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.PaidOrders.OrderBy(item => item.Id))
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.ApplicationUser.Name</td>
+                            <td>@item.OrderDate.ToString("MM/dd/yyyy")</td>
+                            <td>@item.OrderTotal.ToString("c")</td>
+                            <td>@item.OrderStatus</td> <!-- Hiển thị trạng thái đơn hàng -->
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

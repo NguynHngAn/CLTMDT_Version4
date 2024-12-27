@@ -1,0 +1,91 @@
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+C:\Users\ACER\Downloads\Clone code\Bulky_MVC\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\ReuploadCode\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT - Copy\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\ASD_CLTMDT_Version2 - Copy\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.sourcelink.json
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll
