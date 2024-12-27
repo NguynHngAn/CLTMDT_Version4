@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTji62V89mw=",
+  "dgSpecHash": "HvfnmH7ZRzM=",
   "success": true,
-  "projectFilePath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\Bulky.Utility\\BulkyBook.Utility.csproj",
+  "projectFilePath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\Bulky.Utility\\BulkyBook.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.8\\microsoft.aspnetcore.cryptography.keyderivation.8.0.8.nupkg.sha512",

@@ -907,11 +907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\Bulky.Utility\\BulkyBook.Utility.csproj",
+      "projectUniqueName": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\Bulky.Utility\\BulkyBook.Utility.csproj",
       "projectName": "BulkyBook.Utility",
-      "projectPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\Bulky.Utility\\BulkyBook.Utility.csproj",
+      "projectPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\Bulky.Utility\\BulkyBook.Utility.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\Bulky.Utility\\obj\\",
+      "outputPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

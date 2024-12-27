@@ -6940,11 +6940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\Bulky.Models\\BulkyBook.Models.csproj",
+      "projectUniqueName": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\Bulky.Models\\BulkyBook.Models.csproj",
       "projectName": "BulkyBook.Models",
-      "projectPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\Bulky.Models\\BulkyBook.Models.csproj",
+      "projectPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\Bulky.Models\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\Bulky.Models\\obj\\",
+      "outputPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\Bulky.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

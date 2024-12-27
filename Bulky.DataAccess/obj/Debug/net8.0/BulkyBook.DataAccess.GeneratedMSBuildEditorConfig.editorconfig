@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BulkyBook.DataAccess
-build_property.ProjectDir = D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version3\CLTMDT_Version3\Bulky.DataAccess\
+build_property.ProjectDir = D:\Học kỳ 10\Chiến lược thương mại điện tử\code_final_CLTMDT\Version4\CLTMDT_Version3\Bulky.DataAccess\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

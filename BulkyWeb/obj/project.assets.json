@@ -13884,11 +13884,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\BulkyBookWeb.csproj",
+      "projectUniqueName": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\BulkyWeb\\BulkyBookWeb.csproj",
       "projectName": "BulkyBookWeb",
-      "projectPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\BulkyBookWeb.csproj",
+      "projectPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\BulkyWeb\\BulkyBookWeb.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\BulkyWeb\\obj\\",
+      "outputPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13906,8 +13906,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj": {
-              "projectPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version3\\CLTMDT_Version3\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj"
+            "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj": {
+              "projectPath": "D:\\Học kỳ 10\\Chiến lược thương mại điện tử\\code_final_CLTMDT\\Version4\\CLTMDT_Version3\\Bulky.DataAccess\\BulkyBook.DataAccess.csproj"
             }
           }
         }
